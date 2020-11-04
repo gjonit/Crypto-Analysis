@@ -1,0 +1,2 @@
+#I have used AWS RDS MySQL to host the database and MySQL Workbench to retrieve and view the data.
+endpoint = 'mytest.cgnjdy7cjkjg.us-east-2.rds.amazonaws.com'
