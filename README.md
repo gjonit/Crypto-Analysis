@@ -22,6 +22,10 @@ The Log Returns are stored for eacg pairs table, while VaR and ES are stored in 
 10. Created the table for each pair of cryptos with 5 columns each that corespondent to Id(minutes), Price, Volume, Percantage Change, Log Returns.
 11. Created the result table that holds the Value at Risk and Expected Shortfall.
 
+The Result Table( Value at Risk and Expected Shortfall)
+<img width="961" alt="Screen Shot 2020-11-04 at 5 00 33 PM" src="https://user-images.githubusercontent.com/45251476/98172583-9d34c480-1ebf-11eb-9fd2-29055b6e178d.png">
+
+
 
 
 
